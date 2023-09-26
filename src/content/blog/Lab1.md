@@ -36,12 +36,17 @@ git commit -m "first commit"
 git push
 ```
 
+Now go in the astro.config.mjs file in your project and suppress everything to replace it with this block :
+```
+import { defineConfig } from 'astro/config'
+export default defineConfig({
+  site: 'https://<username>.github.io',
+})
+```
+In you project, you should now create a file **.github**, then inside a file **workflow** and inside a file **deploy.yml**
+
+All left for you to do now is to follow <a href="https://docs.astro.build/en/guides/deploy/github/">this tutorial</a> to deploy your Astro site to Github Pages.
+
+
 #### 2. First steps with Unity
 
-
-
-#### Syntax
-
-```markdown
-![Alt text](./full/or/relative/path/of/image)
-```
