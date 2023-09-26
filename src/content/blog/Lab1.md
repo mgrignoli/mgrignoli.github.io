@@ -18,12 +18,23 @@ The first thing I had to do was to install Node.js and npm on my computer. Do it
 Now, after creating a folder on your device where all your work will be, you can chose the template you want on <a href="https://astro.build/themes/"> astro website </a>.
 Open a terminal and place yourself in your previously created folder (careful about that, I made the mistake and I had to change everything by hand afetrward). Now you can create you new project with npm :
 ```
+mkdir your_local_project_folder
+cd /your_local_project_folder
 npm create astro@latest
 ```
 
 It's now, time to create your github repository to be able to update your website in the future. For that follow the steps on the <a href="https://pages.github.com"> github website</a>.
+Name your repository <username>.github.io
 
+Now you go back to your terminal, in your folder and you can clone your repository and update your files :
 
+```
+cd /your_local_project_folder
+git clone https://www.github.com/<username>/<username>.github.io.git
+git add * 
+git commit -m "first commit"
+git push
+```
 
 #### 2. First steps with Unity
 
