@@ -1,16 +1,38 @@
 ---
-title: 'Lecture 1'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+title: 'HCI Lecture 1'
+description: 'LECTURE 1 : Affordances'
+pubDate: 'Sep 26 2023'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+_Provide examples of both good and bad affordances in Human-Computer Interaction (HCI) in our daily lives, along with explanations and suggestions for improvement._
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Considering that HCI design should prioritize user needs, accessibility, and ethical considerations to create technology that enhances our lives rather than detracts from them here are the affordances I thought of :
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+**Bad Affordance: Smartphone Addiction**
+I often found myself looking at my phone knowing there is nothing for me to look at, it appears to me that I developed some sort of reflex and I hate it. I have come to the point where putting a time limit was not enough for me to manage my instagram time and I eventually decided to completly suppress the app from my phone.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<a href="https://www.thesocialdilemma.com/">This documentary</a> delves into the negative impacts of social media and smartphone addiction.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+**Description**: 
+Smartphone addiction is a prevalent issue today. The design of smartphones encourages constant engagement through features like notifications, infinite scrolling, and addictive apps. These affordances make it easy for users to spend excessive time on their devices, often to the detriment of their physical and mental well-being.
+
+**Why it's Bad**: 
+Smartphone addiction can lead to reduced productivity, decreased face-to-face social interaction, and negative impacts on mental health. The constant distraction disrupts our ability to focus on tasks and maintain a healthy work-life balance.
+
+**How to Fix it**: 
+Digital Wellbeing Features: Smartphone manufacturers can integrate more robust digital well-being features that allow users to set usage limits for specific apps and receive reminders when they approach those limits.
+User Education: Promote digital literacy and responsible smartphone use through public awareness campaigns, school programs, and parental control tools.
+Design for Engagement: App developers can use behavioral science principles to design apps that encourage healthier usage patterns, such as intermittent rewards rather than constant notifications.
+
+**Good Affordance: Voice Assistants**
+
+**Description**: 
+Voice assistants like Amazon's Alexa and Google Assistant provide a hands-free, natural way to interact with technology. They allow users to control smart devices, get information, and perform tasks using spoken language.
+
+**Why it's Good**: Voice assistants offer accessibility benefits by enabling users with disabilities to interact with technology more easily. They can also simplify tasks, such as setting reminders or controlling smart home devices, by reducing the need for manual input. Moreover, they can enhance multitasking and productivity.
+
+**How to Further Improve**:
+Privacy and Security: I have myself worked on VOICE ANONYMIZATION during a summer internship in Italy and it occured to me how much it was needed. Address concerns related to privacy and security by giving users more control over data collection and usage. Enhance transparency in data handling practices.
+Customization: Allow users to customize the behavior and responses of voice assistants to better suit their individual preferences and needs.
+Voice Recognition: Continuously improve voice recognition accuracy and adapt to different accents and languages to make interactions more seamless.
