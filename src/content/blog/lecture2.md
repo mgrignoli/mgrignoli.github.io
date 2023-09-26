@@ -1,16 +1,24 @@
 ---
-title: 'Lecture 2'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
+title: 'HCI Lecture 2'
+description: 'LECTURE 2 : GESTALT LAWS'
+pubDate: 'Sep 26 2023'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Gestalt laws of perception provide guidelines for how humans naturally organize and interpret visual information. When applied incorrectly in design, it can lead to confusion and frustration. Here are two examples of how these principles can go wrong in digital applications and suggestions for correction:
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+1. **Unintuitive Website Navigation**
+Problem: In some poorly designed websites or apps, the proximity principle, which states that objects placed close together are perceived as related, can lead to confusion. For instance, having unrelated navigation links or buttons too close together can make users mistakenly click on the wrong option
+Correction:
+Increase Spacing: Increase the spacing between unrelated elements to clearly distinguish them.
+Group Relevant Items: Group related navigation items together and use visual cues like dividers or background colors to make the grouping evident.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+2. **Ambiguous Button Design**
+Problem : The similarity principle, which suggests that items with similar visual attributes (e.g., color, shape) are perceived as related, can be problematic if used improperly. For instance, if all interactive buttons on a website look the same, users may struggle to differentiate between primary actions, secondary actions, and non-interactive elements.
+Correction:
+Use Visual Hierarchy: Apply different visual styles (e.g., size, color, or shading) to distinguish primary actions from secondary or tertiary actions.
+Consistency: Ensure consistency in button design throughout the application so that users can develop a mental model of the interface.
+Feedback: Provide clear hover effects, transitions, or feedback when users interact with buttons to confirm their action.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+_It's essential for designers to understand the Gestalt principles but also to recognize when they need to be intentionally deviated from for the sake of user clarity and ease of interaction. Proper use of these principles can enhance user experience, but misuse can lead to confusion and usability issues._
