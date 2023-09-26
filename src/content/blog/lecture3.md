@@ -1,7 +1,7 @@
 ---
 title: 'HCI Lecture 3'
 description: 'LECTURE 3 : DARK DESIGN PATTERN'
-pubDate: 'Jul 15 2022'
+pubDate: 'Sep 26 2023'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
