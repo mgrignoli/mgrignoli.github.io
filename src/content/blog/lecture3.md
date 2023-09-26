@@ -1,16 +1,24 @@
 ---
-title: 'Lecture 3'
-description: 'Lorem ipsum dolor sit amet'
+title: 'HCI Lecture 3'
+description: 'LECTURE 3 : DARK DESIGN PATTERN'
 pubDate: 'Jul 15 2022'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Dark design patterns are unethical or deceptive design practices that trick or manipulate users into taking actions they might not want to. Here are two dark design patterns and ways to redesign them to achieve more ethical and user-friendly alternatives:
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+1. **Hidden Subscription Opt-in**
+Description: Some websites and apps employ the dark pattern of hiding subscription opt-ins. For example, they might present a pop-up with a prominent "Accept" button, but the "Cancel" or "No Thanks" option is camouflaged, difficult to find, or presented in a way that makes it seem less favorable.
+Redesign:
+Clear Choices: Design the subscription pop-up with clear and equally visible "Accept" and "Decline" or "No Thanks" buttons, making it easy for users to opt-out if they choose to.
+Plain Language: Use straightforward and non-misleading language in the subscription request, avoiding any deceptive wording.
+No Forced Opt-in: Ensure that users can continue using the website or app without subscribing, and their choice to decline should not negatively impact their experience.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+2. **Confirmshaming**
+Description: Confirmshaming is a dark pattern where a website or app uses guilt or shame to pressure users into taking a specific action, like subscribing or sharing personal information. For instance, a button might say, "No, I don't care about saving money" instead of a straightforward "No" or « Cancel."
+Redesign:
+Respectful Language: Use respectful and neutral lanDguage in dialog boxes or buttons, allowing users to make choices without feeling manipulated or judged.
+Transparent Options: Clearly label options such as "Yes" and "No" without introducing negative or judgmental phrases.
+Educational Messaging: Instead of using guilt, provide users with brief, informative messages about the benefits and consequences of their choices.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+By implementing these redesign suggestions, websites and apps can shift away from dark design patterns and promote ethical and transparent user interactions. This helps build trust with users and encourages more authentic engagement rather than manipulation.
