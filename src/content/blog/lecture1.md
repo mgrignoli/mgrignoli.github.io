@@ -9,22 +9,7 @@ _Provide examples of both good and bad affordances in Human-Computer Interaction
 
 Considering that HCI design should prioritize user needs, accessibility, and ethical considerations to create technology that enhances our lives rather than detracts from them here are the affordances I thought of :
 
-**Bad Affordance: Smartphone Addiction**
-I often found myself looking at my phone knowing there is nothing for me to look at, it appears to me that I developed some sort of reflex and I hate it. I have come to the point where putting a time limit was not enough for me to manage my instagram time and I eventually decided to completly suppress the app from my phone.
-
-<a href="https://www.thesocialdilemma.com/">This documentary</a> delves into the negative impacts of social media and smartphone addiction.
-
-**Description**: 
-Smartphone addiction is a prevalent issue today. The design of smartphones encourages constant engagement through features like notifications, infinite scrolling, and addictive apps. These affordances make it easy for users to spend excessive time on their devices, often to the detriment of their physical and mental well-being.
-
-**Why it's Bad**: 
-Smartphone addiction can lead to reduced productivity, decreased face-to-face social interaction, and negative impacts on mental health. The constant distraction disrupts our ability to focus on tasks and maintain a healthy work-life balance.
-
-**How to Fix it**: 
-Digital Wellbeing Features: Smartphone manufacturers can integrate more robust digital well-being features that allow users to set usage limits for specific apps and receive reminders when they approach those limits.
-User Education: Promote digital literacy and responsible smartphone use through public awareness campaigns, school programs, and parental control tools.
-Design for Engagement: App developers can use behavioral science principles to design apps that encourage healthier usage patterns, such as intermittent rewards rather than constant notifications.
-
+**Bad Affordance: 
 **Good Affordance: Voice Assistants**
 
 **Description**: 
