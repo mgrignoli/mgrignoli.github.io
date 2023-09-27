@@ -2,7 +2,7 @@
 title: 'HCI Lecture 3'
 description: 'LECTURE 3 : DARK DESIGN PATTERN'
 pubDate: 'Sep 26 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/DarkDesign.jpeg'
 ---
 
 Dark design patterns are unethical or deceptive design practices that trick or manipulate users into taking actions they might not want to. Here are two dark design patterns and ways to redesign them to achieve more ethical and user-friendly alternatives:
