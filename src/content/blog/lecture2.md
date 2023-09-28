@@ -1,8 +1,8 @@
 ---
-title: 'HCI Lecture 2'
+title: 'HCI Lecture 2 : Gestalt Laws'
 description: 'LECTURE 2 : GESTALT LAWS'
 pubDate: 'Sep 26 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/Gestalt.png'
 ---
 
 Gestalt laws of perception provide guidelines for how humans naturally organize and interpret visual information. When applied incorrectly in design, it can lead to confusion and frustration. Here are two examples of how these principles can go wrong in digital applications and suggestions for correction:

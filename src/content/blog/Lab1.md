@@ -2,7 +2,7 @@
 title: 'HCI Lab 1'
 description: 'First lab in Human-Computer Interaction'
 pubDate: 'Sep 25 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/blog-placeholder-1.jpg'
 ---
 
 Hi everyone !

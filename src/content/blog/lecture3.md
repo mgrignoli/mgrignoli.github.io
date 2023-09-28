@@ -1,5 +1,5 @@
 ---
-title: 'HCI Lecture 3'
+title: 'HCI Lecture 3 : Dark Design Pattern'
 description: 'LECTURE 3 : DARK DESIGN PATTERN'
 pubDate: 'Sep 26 2023'
 heroImage: '/DarkDesign.jpeg'
