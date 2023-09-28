@@ -210,6 +210,20 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"lecture5.md": {
+	id: "lecture5.md";
+  slug: "lecture5";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"lecture6.md": {
+	id: "lecture6.md";
+  slug: "lecture6";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "markdown-style-guide.md": {
 	id: "markdown-style-guide.md";
   slug: "markdown-style-guide";
