@@ -14,7 +14,7 @@ The bad affordance I thought of is the tap in my former colocation's kitchen. It
 
 **Why it's Bad**:
 
-This tap's design lacked proper affordances, leading to a poor user experience. Affordances refer to the perceivable features of an object or system that suggest how it should be used. In this case, the tap's affordance was misleading. Most people expect that turning the handle to the left will result in cold water, while turning it to the right will produce hot water. However, the reverse placement of hot and cold water created a mismatch between user expectations and system behavior.
+This tap's design lacked proper affordances, leading to a poor user experience. Affordances refer to the perceivable features of an object or system that suggest how it should be used. In this case, the tap's affordance was misleading. Most people expect that turning the handle to the right will result in cold water, while turning it to the left will produce hot water. However, the reverse placement of hot and cold water created a mismatch between user expectations and system behavior.
 
 **Suggestions for Improvement**:
 
