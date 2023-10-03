@@ -27,6 +27,8 @@ Finally, the site should ensure to the users that there are no hidden or surpris
 
 Some websites and apps employ the dark pattern of hiding subscription opt-ins. For example, they might present a pop-up with a prominent "Accept" button, but the "Cancel" or "No Thanks" option is camouflaged, difficult to find, or presented in a way that makes it seem less favorable. 
 
+![blog placeholder](/Optin.png)
+
 I think it should be redesign by offering a clear choice to the user. Design the subscription pop-up with clear and equally visible "Accept" and "Decline" or "No Thanks" buttons, making it easy for users to opt-out if they choose to.
 Moreover, there should be a straightforward and non-misleading language used in the subscription request, avoiding any deceptive wording.
 
@@ -34,6 +36,8 @@ Moreover, there should be a straightforward and non-misleading language used in 
 3. **Confirmshaming**
 
 Confirmshaming is a dark pattern where a website or app uses guilt or shame to pressure users into taking a specific action, like subscribing or sharing personal information. For instance, a button might say, "No, I don't care about saving money" instead of a straightforward "No" or « Cancel."
+
+![blog placeholder](/Confirmshaming.png)
 
 To redesign this pattern, the use respectful and neutral lanDguage in dialog boxes or buttons, will allow users to make choices without feeling manipulated or judged. The options should be "Yes" and "No" without introducing negative or judgmental phrases.
 Finally, instead of using guilt, the pattern should provide users with brief, informative messages about the benefits and consequences of their choices.
