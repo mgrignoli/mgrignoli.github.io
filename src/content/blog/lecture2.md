@@ -9,28 +9,32 @@ Gestalt laws of perception provide guidelines for how humans naturally organize 
 
 1. **Unintuitive Website Navigation**
 
-Problem: 
+Problem : 
 
 In some poorly designed websites or apps, the proximity principle, which states that objects placed close together are perceived as related, can lead to confusion. For instance, having unrelated navigation links or buttons too close together can make users mistakenly click on the wrong option
 
 ![blog placeholder](/WebDesign.png)
-Correction:
 
-Increase Spacing: Increase the spacing between unrelated elements to clearly distinguish them.
+Correction :
 
-Group Relevant Items: Group related navigation items together and use visual cues like dividers or background colors to make the grouping evident.
+Increase Spacing : Increase the spacing between unrelated elements to clearly distinguish them.
 
-<a href="https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/">This site</a> and <a herf="https://www.ionos.co.uk/digitalguide/websites/web-design/website-navigation/">this one</a> helped me.
+Group Relevant Items : Group related navigation items together and use visual cues like dividers or background colors to make the grouping evident.
+
+<a href="https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/">This site</a> and <a href="https://www.ionos.co.uk/digitalguide/websites/web-design/website-navigation/">this one</a> helped me.
 
 2. **Ambiguous Button Design**
 
 Problem : 
 The similarity principle, which suggests that items with similar visual attributes (e.g., color, shape) are perceived as related, can be problematic if used improperly. For instance, if all interactive buttons on a website look the same, users may struggle to differentiate between primary actions, secondary actions, and non-interactive elements.
 
-Correction:
-Use Visual Hierarchy: Apply different visual styles (e.g., size, color, or shading) to distinguish primary actions from secondary or tertiary actions.
+![blog placeholder](/ButtonDesign.png)
 
-Feedback: 
+Correction :
+
+Use Visual Hierarchy : Apply different visual styles (e.g., size, color, or shading) to distinguish primary actions from secondary or tertiary actions.
+
+Feedback : 
 Provide clear hover effects, transitions, or feedback when users interact with buttons to confirm their action.
 
 
