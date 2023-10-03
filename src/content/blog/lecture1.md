@@ -52,3 +52,6 @@ Privacy and Security : I have myself worked on VOICE ANONYMIZATION during a summ
 Customization : Allow users to customize the behavior and responses of voice assistants to better suit their individual preferences and needs.
 
 Voice Recognition : Continuously improve voice recognition accuracy and adapt to different accents and languages to make interactions more seamless.
+
+
+#### Clic <a href="https://www.interaction-design.org/literature/topics/affordances">here</a> if you want to learn more about affordances.
