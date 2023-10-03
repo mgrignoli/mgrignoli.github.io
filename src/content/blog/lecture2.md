@@ -13,11 +13,14 @@ Problem:
 
 In some poorly designed websites or apps, the proximity principle, which states that objects placed close together are perceived as related, can lead to confusion. For instance, having unrelated navigation links or buttons too close together can make users mistakenly click on the wrong option
 
+![blog placeholder](/WebDesign.png)
 Correction:
 
 Increase Spacing: Increase the spacing between unrelated elements to clearly distinguish them.
 
 Group Relevant Items: Group related navigation items together and use visual cues like dividers or background colors to make the grouping evident.
+
+<a href="https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/">This site</a> and <a herf="https://www.ionos.co.uk/digitalguide/websites/web-design/website-navigation/">this one</a> helped me.
 
 2. **Ambiguous Button Design**
 
