@@ -75,5 +75,5 @@ Here are some practical insights that can help beginners like me get started:
 
 As a beginner, I'm excited to continue my journey into Unity, and I invite you to come along with me. In the upcoming posts, I'll share my progress, projects, and insights as we delve deeper into the world of game development with Unity. Stay tuned for more practical advice and experiences!
 
-Here are some links to help yoou get started and which helped me writing this post 
+Here is a link to help you get started and which helped me writing this post 
 <a href="https://hub.packtpub.com/what-you-should-know-about-unity-2018-interface/">WhatYouShouldKnowAboutUnity</a>
