@@ -58,21 +58,22 @@ Here are some practical insights that can help beginners like me get started:
 
 1. **Getting Familiar with the Interface**: Unity's interface can be a bit overwhelming initially. Take some time to explore the various panels, tabs, and windows. Becoming comfortable with the interface layout will make your journey smoother. The very first thing I learned was how the interface was devided between the different windows : 
 
-
+![blog placeholder](/Windows.png)
 
 2. **Understanding Game Objects**: In Unity, everything revolves around game objects, whether they're characters, scenery, or interactive elements. Learning how to create and manipulate these game objects is fundamental.
 
+![blog placeholder](/Object.png)
+
 3. **Working with Components**: Game objects come to life through components. Components are scripts or properties that define an object's behavior, appearance, and interactions. Understanding how to attach and customize components is key to creating dynamic experiences.
 
-4. **Utilizing the Asset Store**: Unity provides an Asset Store with a vast library of pre-made assets, scripts, and templates. This resource can save you significant time and effort as a beginner.
+![blog placeholder](/Component.png)
 
-5. **Scripting (Optional)**: Learning to script in C# or Unity's scripting language, UnityScript (similar to JavaScript), can give you more control over your projects. It's not necessary for every project, but it's a valuable skill to develop.
+4. **Utilizing the Asset Store**: Unity provides an <a href="https://assetstore.unity.com">Asset Store</a> with a vast library of pre-made assets, scripts, and templates. This resource can save you significant time and effort as a beginner. I mysefl used it a lot to create my first Plateformer with Unity.
 
-6. **Collaboration Tools**: If you're working on projects with others, Unity's collaboration tools are essential. They enable efficient teamwork, version control, and project management.
+![blog placeholder](/AssetStore.png)
 
-7. **Documentation and Community**: Unity has a helpful community of developers and comprehensive documentation. When you encounter challenges, don't hesitate to consult forums, tutorials, or the official documentation – chances are, others have faced similar issues.
 
 As a beginner, I'm excited to continue my journey into Unity, and I invite you to come along with me. In the upcoming posts, I'll share my progress, projects, and insights as we delve deeper into the world of game development with Unity. Stay tuned for more practical advice and experiences!
 
 Here are some links to help yoou get started and which helped me writing this post 
-https://hub.packtpub.com/what-you-should-know-about-unity-2018-interface/
+<a href="https://hub.packtpub.com/what-you-should-know-about-unity-2018-interface/">WhatYouShouldKnowAboutUnity</a>
