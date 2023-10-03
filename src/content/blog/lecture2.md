@@ -40,4 +40,4 @@ Provide clear hover effects, transitions, or feedback when users interact with b
 _It's essential for designers to understand the Gestalt principles but also to recognize when they need to be intentionally deviated from for the sake of user clarity and ease of interaction. Proper use of these principles can enhance user experience, but misuse can lead to confusion and usability issues._
 
 
-#### <a href="https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/">This site</a> and <a href="https://www.ionos.co.uk/digitalguide/websites/web-design/website-navigation/">this one</a> helped me to make this post, don't hesitate to visit them to find out more about web design.
+##### <a href="https://cxl.com/blog/intuitive-web-design-how-to-make-your-website-intuitive-to-use/">This site</a> and <a href="https://www.ionos.co.uk/digitalguide/websites/web-design/website-navigation/">this one</a> helped me to make this post, don't hesitate to visit them to find out more about web design.

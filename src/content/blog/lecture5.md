@@ -11,7 +11,7 @@ For this 5th lecture of my HCI class, we had to read the  "Ultimate Display" and
 
 Ivan Sutherland's "Ultimate Display" paper, written back in 1965, was like a crystal ball for future tech. He had some mind-blowing ideas that are already happening today, and some are still in the pipeline.
 
-1. **Virtual Reality and Augmented Reality (VR/AR):** Sutherland was dreaming of immersive computer-generated worlds, and we're not quite there yet, but VR and AR are real. Think about VR headsets that transport you to other places or Pokémon GO making our world more fun with digital creatures.
+1. **Virtual Reality and Augmented Reality (VR/AR):** Sutherland was dreaming of immersive computer-generated worlds, and we're not quite there yet, but VR and AR are real.
 
 2. **Interactive 3D Graphics:** He talked about us playing around with objects in a 3D space. Well, that's basically the heart of modern 3D games and design software, where you can build, shape, and interact with digital worlds.
 
@@ -23,14 +23,6 @@ Ivan Sutherland's "Ultimate Display" paper, written back in 1965, was like a cry
 
 Looking to the future, we might see even more incredible things:
 
-1. **Full Sensory Immersion:** Imagine VR and AR with scents and tastes. You could step into a bakery and smell the fresh bread. This could take immersion to a whole new level.
 
-2. **Brain-Computer Interfaces (BCIs):** BCIs could let you control things with your thoughts, so you won't need fancy controllers anymore. It's like magic!
-
-3. **Artificial Intelligence (AI):** AI could make virtual worlds smarter and more interactive, so your virtual buddies could be even more realistic and chatty.
-
-4. **Medical and Therapeutic Applications:** VR and AR could help in healing, from pain management to mental health treatment. It could be a game-changer in healthcare.
-
-5. **Education and Training:** VR could be the new classroom. Imagine learning complex stuff by actually doing it in a virtual environment. That's the future of education!
 
 So, Ivan Sutherland had this wild vision, and we're slowly but surely catching up to it. The digital world is becoming more and more intertwined with our real lives, and who knows what other cool stuff we'll see in the future?
