@@ -180,63 +180,70 @@ declare module 'astro:content' {
   slug: "firstblender";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "Lab1.md": {
 	id: "Lab1.md";
   slug: "lab1";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
+} & { render(): Render[".md"] };
+"Lab2.md": {
+	id: "Lab2.md";
+  slug: "lab2";
+  body: string;
+  collection: "blog";
+  data: any
 } & { render(): Render[".md"] };
 "lecture1.md": {
 	id: "lecture1.md";
   slug: "lecture1";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "lecture2.md": {
 	id: "lecture2.md";
   slug: "lecture2";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "lecture3.md": {
 	id: "lecture3.md";
   slug: "lecture3";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "lecture4.md": {
 	id: "lecture4.md";
   slug: "lecture4";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "lecture5.md": {
 	id: "lecture5.md";
   slug: "lecture5";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "lecture6.md": {
 	id: "lecture6.md";
   slug: "lecture6";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 "markdown-style-guide.md": {
 	id: "markdown-style-guide.md";
   slug: "markdown-style-guide";
   body: string;
   collection: "blog";
-  data: InferEntrySchema<"blog">
+  data: any
 } & { render(): Render[".md"] };
 };
 
@@ -248,5 +255,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	type ContentConfig = typeof import("../src/content/config");
+	type ContentConfig = never;
 }
