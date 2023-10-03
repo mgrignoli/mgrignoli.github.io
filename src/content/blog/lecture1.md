@@ -18,29 +18,37 @@ This tap's design lacked proper affordances, leading to a poor user experience. 
 
 **Suggestions for Improvement**:
 
-Reverse Tap Handles: 
+
+![blog placeholder](/GoodTap.png)
+
+Reverse Tap Handles : 
 The most straightforward solution would be to reverse the positions of the hot and cold handles on the tap to match users' mental models. This would align the system's behavior with the expected user actions.
 
-Color-Coded Handles: 
+Color-Coded Handles : 
 Adding color-coded indicators to the tap handles is an excellent way to improve affordance. A red indicator for hot water and a blue one for cold water can help users instantly identify which handle to turn for their desired water temperature.
 
-Text Labels: 
+Text Labels : 
 If color-coding is not feasible, textual labels such as "Hot" and "Cold" could be added to each handle. This provides clear instructions and reinforces the correct user behavior.
 
-Haptic Feedback: 
-Consider incorporating haptic feedback, such as textured or differently shaped handles for hot and cold, to help users distinguish between them without needing to look.
+Haptic Feedback : 
+Incorporating haptic feedback, such as textured or differently shaped handles for hot and cold, to help users distinguish between them without needing to look.
 
-User Testing: 
+User Testing : 
 Before any changes, it's essential to conduct user testing to gather feedback on the proposed solutions. This ensures that the design changes effectively address the issue and align with users' preferences and expectations.
 
 **Good Affordance: Voice Assistants**
 
-**Description**: 
+![blog placeholder](/Voice.png)
+
+**Description** : 
 Voice assistants like Amazon's Alexa and Google Assistant provide a hands-free, natural way to interact with technology. They allow users to control smart devices, get information, and perform tasks using spoken language.
 
-**Why it's Good**: Voice assistants offer accessibility benefits by enabling users with disabilities to interact with technology more easily. They can also simplify tasks, such as setting reminders or controlling smart home devices, by reducing the need for manual input. Moreover, they can enhance multitasking and productivity.
+**Why it's Good** : Voice assistants offer accessibility benefits by enabling users with disabilities to interact with technology more easily. They can also simplify tasks, such as setting reminders or controlling smart home devices, by reducing the need for manual input. Moreover, they can enhance multitasking and productivity.
 
-**How to Further Improve**:
-Privacy and Security: I have myself worked on VOICE ANONYMIZATION during a summer internship in Italy and it occured to me how much it was needed. Address concerns related to privacy and security by giving users more control over data collection and usage. Enhance transparency in data handling practices.
-Customization: Allow users to customize the behavior and responses of voice assistants to better suit their individual preferences and needs.
-Voice Recognition: Continuously improve voice recognition accuracy and adapt to different accents and languages to make interactions more seamless.
+**How to Further Improve** :
+
+Privacy and Security : I have myself worked on VOICE ANONYMIZATION during a summer internship in Italy and it occured to me how much it was needed. Address concerns related to privacy and security by giving users more control over data collection and usage. Enhance transparency in data handling practices.
+
+Customization : Allow users to customize the behavior and responses of voice assistants to better suit their individual preferences and needs.
+
+Voice Recognition : Continuously improve voice recognition accuracy and adapt to different accents and languages to make interactions more seamless.
