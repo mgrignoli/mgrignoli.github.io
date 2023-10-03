@@ -5,12 +5,16 @@ pubDate: 'Sep 26 2023'
 heroImage: '/DarkDesign.jpeg'
 ---
 
-Dark design patterns are unethical or deceptive design practices that trick or manipulate users into taking actions they might not want to. Here are two dark design patterns and ways to redesign them to achieve more ethical and user-friendly alternatives:
+Dark design patterns are unethical or deceptive design practices that trick or manipulate users into taking actions they might not want to. I learned a lot about them on <a href="https://en.wikipedia.org/wiki/Dark_pattern">this website</a>. 
+
+Here are different dark design patterns and ways to redesign them to achieve more ethical and user-friendly alternatives:
 
 
 1. **Forced Continuity in Subscription Services**
 
 Some subscription-based services, such as Amazon Prime, Disney Plus, and Netflix, employ a dark pattern known as "Forced Continuity." This occurs when users sign up for a free trial or a subscription with the promise of a simple cancellation process but find it intentionally difficult to cancel or terminate their subscription when they wish to do so. These services often hide or complicate the cancellation steps, leading users to continue paying for a service they no longer want.
+
+![blog placeholder](/dark1.png)
 
 I have personnaly seen an improvement for thes well-known applications but this dark pattern remains present in a lot of website. I think they should implement a straightforward and easily accessible cancellation process within the user's account settings and especially avoid burying the cancellation option deep within menus or requiring users to contact customer support.
 
