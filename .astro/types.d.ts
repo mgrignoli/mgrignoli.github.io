@@ -196,6 +196,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"Lab3.md": {
+	id: "Lab3.md";
+  slug: "lab3";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "lecture1.md": {
 	id: "lecture1.md";
   slug: "lecture1";
@@ -234,6 +241,27 @@ declare module 'astro:content' {
 "lecture6.md": {
 	id: "lecture6.md";
   slug: "lecture6";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"lecture7.md": {
+	id: "lecture7.md";
+  slug: "lecture7";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"lecture8.md": {
+	id: "lecture8.md";
+  slug: "lecture8";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"lecture9.md": {
+	id: "lecture9.md";
+  slug: "lecture9";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
