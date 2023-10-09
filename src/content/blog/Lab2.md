@@ -192,4 +192,15 @@ public class CameraController : MonoBehaviour
 
 #### To finish our game all left to do is add a Count Text and Win Text.
 
-Now you can add a UI (Text Mesh Pro) in the hierarchy
+Now you can add a UI (Text Mesh Pro) in the hierarchy. add a Count text and a win text and place them where you want on the canva. 
+
+![blog placeholder](/Count.png)
+
+
+Don't forget to place the countText and WinText in the script PlayerController
+
+![blog placeholder](/Count2.png)
+
+
+
+### You now should have a perfectly functionable RollABall Game ! Of course don't forget <a href="https://learn.unity.com/project/roll-a-ball?uv=2022.3">this tutorial</a> which will have a lot more details than what I juste gave you.
