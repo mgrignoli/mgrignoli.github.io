@@ -47,9 +47,8 @@ else
 }
 
 rb.AddForce (movement * speed);
-```
+````
 
 
-
-
+##### You should now be able to play your game on your phone !
 
