@@ -2,7 +2,7 @@
 title: 'HCI Lecture 10 :  The Shape of smartphones'
 description: 'LECTURE 10 :  The Shape of Smartphones'
 pubDate: 'Oct 17 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/phoneEvol.png'
 ---
 
 Hi everyone! 
@@ -37,8 +37,10 @@ The smartphone market is fiercely competitive, with manufacturers vying for cons
    
 With growing awareness of environmental issues, I believe the future of smartphone shapes may be influenced by sustainable design. Manufacturers may prioritize eco-friendly materials and modular components that are easy to repair and recycle, leading to a more durable and potentially bulkier form.
 
+![blog placeholder](/ecophone.png)
 
 
-Conclusion:
+
+##### Conclusion:
 
 The evolution of smartphone shapes is an ongoing process, influenced by technological advancements, consumer preferences, and the competitive market. While it's challenging to predict the precise form that future smartphones will take, we can be sure that innovation will continue to drive their design. The smartphone will remain a dynamic and integral part of our lives, adapting to the changing needs and desires of its users.
