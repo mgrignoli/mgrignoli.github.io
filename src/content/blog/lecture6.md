@@ -13,7 +13,8 @@ In this 6th lecture of my HCI class, we delved into the topic of input devices a
 
 ![blog placeholder](/blackberry.jpg)
 
-The BlackBerry was once the go-to device for professionals, known for its physical keyboard and secure messaging. However, several factors contributed to its decline:
+The BlackBerry was once the go-to device for professionals, known for its physical keyboard and secure messaging, (<a href="https://www.theguardian.com/technology/2023/oct/15/blackberry-smartphone-status-symbol-then-crashed-and-burned">this article of the guardian</a> will give you good insight). 
+However, several factors contributed to its decline:
 
 1. **Failure to Innovate:** BlackBerry stuck with its physical keyboard and resisted the shift towards full touchscreens. This reluctance to innovate left it lagging behind competitors who embraced touchscreen technology, providing users with a more versatile interface.
 

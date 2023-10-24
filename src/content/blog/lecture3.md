@@ -16,7 +16,7 @@ Some subscription-based services, such as Amazon Prime, Disney Plus, and Netflix
 
 ![blog placeholder](/dark1.png)
 
-I have personnaly seen an improvement for thes well-known applications but this dark pattern remains present in a lot of website. I think they should implement a straightforward and easily accessible cancellation process within the user's account settings and especially avoid burying the cancellation option deep within menus or requiring users to contact customer support.
+I have personnaly seen an improvement for these well-known applications but this dark pattern remains present in a lot of website. I think they should implement a straightforward and easily accessible cancellation process within the user's account settings and especially avoid burying the cancellation option deep within menus or requiring users to contact customer support.
 
 Furthermore, sometimes the conditions of the trials are not clear, so they should clearly communicate the terms of any free trials, including the duration of the trial and when regular billing will commence. Th best would be if an email reminders was sent before billing begins.
 
