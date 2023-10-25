@@ -2,7 +2,7 @@
 title: 'HCI Lecture 12 :  Mixed Reality Head-Mounted Displays'
 description: 'LECTURE 12 :  MR HMD'
 pubDate: 'Oct 25 2023'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: '/MR1.png'
 ---
 
 
@@ -19,6 +19,7 @@ Imagine a future where students of all ages can immerse themselves in interactiv
 
 These apps will give the ability to learn in a dynamic, interactive environment.
 
+![blog placeholder](/MR2.png)
 
 2. **Health and Fitness Revolution: MR Wellness Apps**
 
@@ -32,6 +33,8 @@ In a world where health is paramount, MR wellness apps offer an exciting way to 
 Online shopping will get a jaw-dropping makeover with MR e-commerce apps. These apps will allow you to try on clothes, test furniture in your living room, and see how that new TV fits on your wall, all without leaving your home. MR will change the way we shop.
 
 In an age of convenience, MR e-commerce apps will save time, reduce returns, and provide a unique shopping experience.
+
+![blog placeholder](/MR3.png)
 
 
 ##### Conclusion

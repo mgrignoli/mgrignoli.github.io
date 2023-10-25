@@ -2,7 +2,7 @@
 title: 'HCI Lecture 7 :  Ideate'
 description: 'LECTURE 7 :  Ideate'
 pubDate: 'Oct 09 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/idea2.png'
 ---
 
 Hi !
