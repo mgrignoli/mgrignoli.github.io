@@ -159,7 +159,7 @@ public class PlayerController : MonoBehaviour
 }
 ```
 
-To follow tour player while playing you also have to add a CameraController to your main camera. Don't forget to drag you player in the inspector under the script CameraController. Here is the script:
+To follow your player while playing you also have to add a CameraController to your main camera. Don't forget to drag you player in the inspector under the script CameraController. Here is the script:
 
 ```markdown
 using System.Collections;
@@ -206,4 +206,4 @@ Don't forget to place the countText and WinText in the script PlayerController
 ![blog placeholder](/gameplay2.png)
 
 
-### You now should have a perfectly functionable RollABall Game ! Of course don't forget <a href="https://learn.unity.com/project/roll-a-ball?uv=2022.3">this tutorial</a> which will have a lot more details than what I juste gave you.
+### You now should have a perfectly functionable RollABall Game ! Of course don't forget <a href="https://learn.unity.com/project/roll-a-ball?uv=2022.3">this tutorial</a> which will have a lot more details than what I just gave you.
