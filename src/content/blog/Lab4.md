@@ -15,6 +15,9 @@ Making the Rollaball game work in virtual reality started with getting the game 
 
 Here is a picture of my room :
 
+![blog placeholder](/lab43.png)
+
+![blog placeholder](/lab44.png)
 
 Once that was done we delve into the technical aspect to make the game playable in virtual reality.
 
@@ -24,15 +27,21 @@ Once that was done we delve into the technical aspect to make the game playable 
 - In the project windox, follow the path Assets > Samples > XR Interaction toolkit > 2.2.0 > Starter Assets and for each asset, in the inspector, select the button Add to ActionBasedContinousMoveProvider default ;
 - In the Hierarchy, create an XR Origin, by right clicking XR> XR Origin VR and in the inspector, add Character Controller and Character Controller Driver to the XR Origin ;
 - Right click in the Hierarchy, go to,XR > Locomotion System (Action based) and drag and drop it in the Charactor controller driver in the inspector for the XR Origin ;
-
 Your inspector for XR Orignin should be the same as this one : 
+
+![blog placeholder](/lab45.png)
+
+
+![blog placeholder](/lab46.png)
 
 
 - Now you have to set you Right and left HandController as follow : 
 
+![blog placeholder](/lab42.png)
 
 - Create an empty Prefabs (HandContoller) in the Prefabs folder, add a cube and a cylinder as below ;
 
+![blog placeholder](/lab47.png)
 
 - For left and right handController, in the Inspector remove XR Interactor, Line Rendere and XR Interactor Line Visual. Create an empty GameObject called ModelParent under the HandController, add the created Prefabs and ModelParent, add a sphere Controller to your handControllers ;
 
