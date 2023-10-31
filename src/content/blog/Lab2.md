@@ -49,7 +49,7 @@ Within the Package Manager, import the Input System Package. This action empower
 
 Create a new folder in the assets named Scripts. Select the player, and add a script named PlayerController. Here is the code : 
 
-```markdown
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -161,7 +161,7 @@ public class PlayerController : MonoBehaviour
 
 To follow your player while playing you also have to add a CameraController to your main camera. Don't forget to drag you player in the inspector under the script CameraController. Here is the script:
 
-```markdown
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

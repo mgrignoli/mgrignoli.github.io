@@ -26,14 +26,14 @@ You will notice the game you have is not yet adapted for a smartphone. You have 
 
 3) Modify you PlayerController script as followed.
 In the Start function add these lines :
-```
+```C#
     if (isMobileBuild)
     {
         InputSystem.EnableDevice(UnityEngine.InputSystem.Accelerometer.current);
     }
 ```
 Change the FixedUpdate function to this :
-````
+````C#
 Vector3 movement = Vector3.zero;
 if (isMobileBuild)
 {
