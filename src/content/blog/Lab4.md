@@ -2,7 +2,7 @@
 title: 'HCI Lab 4'
 description: 'Foirth lab in Human-Computer Interaction'
 pubDate: 'Oct 27 2023'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/lab43.png'
 ---
 
 Welcome back!
@@ -14,8 +14,6 @@ I've outlined the steps to get you started. You can also use <a href="https://de
 Making the Rollaball game work in virtual reality started with getting the game size just right for VR play. We wanted players to grab and interact with the game board, so adjusting its size was crucial. Once that was sorted, I found a room setup in the Unity Asset Store—a cozy room with a bed. I placed the Rollaball game board on the bed within this virtual space. While I went with this ready-made setup, you can get creative and design your own environment using Unity's tools. The main aim is to create an awesome space where players can dive into the Rollaball game in VR.
 
 Here is a picture of my room :
-
-![blog placeholder](/lab43.png)
 
 ![blog placeholder](/lab44.png)
 
@@ -45,7 +43,16 @@ Your inspector for XR Orignin should be the same as this one :
 
 - For left and right handController, in the Inspector remove XR Interactor, Line Rendere and XR Interactor Line Visual. Create an empty GameObject called ModelParent under the HandController, add the created Prefabs and ModelParent, add a sphere Controller to your handControllers ;
 
-- 
+- Create empty object on both sides of the board, these will be ths attach points and add XR Grab Interactable to the PlayBoard
+
+
+You should now be able to start to play your game with the headset !
+
+
+
+
+
+
 
 
 
