@@ -22,6 +22,16 @@ This second practical work (2D Image Filtering) aims to set up various filters a
 <iframe height="700" src="/TP2-DCP.pdf" width="740"></iframe> 
 
 
+
+This third practical work aims to implement a Spread Spectrum Watermarking method.
+
+
+
+<iframe height="700" src="/DCPTP3.pdf" width="740"></iframe> 
+
+
+
+
 During  this class we made different group projects on the different kinds of digital content protection such as steganography, fingerprinting, blockchain...
 With Andrea-Isaac Miens and Thibault Ellong, we chose to make  a project on watermarking. If you are interested here is our <a href="https://github.com/ThibaultEllong/Watermarking"> github</a> and our final presentation :
 
