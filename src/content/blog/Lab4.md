@@ -52,12 +52,3 @@ You should now be able to start to play your game with the headset !
 
 
 
-
-
-
-
-
-
-
-
-
